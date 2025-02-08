@@ -1,7 +1,7 @@
 # Table of contents
 
 * [开始](README.md)
-* [web2与web3的桥梁](web2-yu-web3-de-qiao-liang.md)
+* [Web2与Web3的桥梁](web2-yu-web3-de-qiao-liang.md)
 * [Web3生态的超级入口](web3-sheng-tai-de-chao-ji-ru-kou.md)
 * [RWA资产上链](rwa-zi-chan-shang-lian.md)
 
